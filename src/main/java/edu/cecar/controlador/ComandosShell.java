@@ -1,12 +1,13 @@
+package edu.cecar.controlador;
 /**
 *
-* Clase: ConectarBD
+* Clase: ComandosShell
 *
 * versión:0.1
 *
 * fecha Creación: 15/09/2019
 *
-* fecha Modificación: 21/02/2020
+* fecha Modificación: 25/02/2020
 *
 * Autor: Carmen Salgado...
 *
@@ -18,10 +19,10 @@
 *
 **//**
 *
-* ESTA CLASE PERMITE CONECTAR JAVA CON EL MOTOR DE BASE DE DATOS...
+* ESTA CLASE PERMITE...
 *
 **/
 
-public class ConectarBD {
+public class ComandosShell {
 
 }
